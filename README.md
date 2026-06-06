@@ -49,8 +49,8 @@ Some common metrics included in value investing analysis:
 - Pandas
 - NumPy
 - Jupyter Notebook
-- Financial APIs
-- Data Analysis Libraries
+- yFinance
+- Scipy
 
 ---
 
